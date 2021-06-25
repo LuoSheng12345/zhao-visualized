@@ -16,7 +16,7 @@ export default {
     myChart.showLoading()
     
     try {
-      let zhaoP=await this.$axios.get('/zhao.json')
+      let zhaoP=await this.$axios.get(document.location.origin+'/zhao.json')
       let graph=zhaoP.data
       this.zhao=graph
 
