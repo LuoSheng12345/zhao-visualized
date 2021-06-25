@@ -1,5 +1,5 @@
 # 太子党关系网络 可交互数据可视化
-将编程随想的《太子党关系网络》数据可视化了。来这儿 [zhao-visualized.netlify.app](https://zhao-visualized.netlify.app) 看看这些人之间到底都有啥关系。
+将编程随想的《太子党关系网络》数据可视化了。来这儿 [zhao-visualized.netlify.app](https://zhao-visualized.netlify.app) 看看这些人之间到底都有啥关系。这网站手机上用不太了，最好整个电脑，上电脑上去看去。
 ## 简介
 这项目大致有两个部分，一个是用js进行的yaml到json转换，一个是用nuxt和echarts搞得可视化网站。
 ### yaml到json的转换
