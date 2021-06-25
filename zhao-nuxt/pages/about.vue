@@ -3,13 +3,14 @@
         <h1>关于</h1>
         <div>
             <p>这个项目是基于编程随想的太子党关系网络的视觉化。去这儿看编成随想的Repo: <a href="https://github.com/programthink/zhao" target="_blank">github.com/programthink/zhao</a></p>
-            <p>这里衷心希望编程随想啥事儿没有</p>
+            <p>这里衷心希望编程随想啥事儿也没有</p>
             <p>这个项目可以说是建党百年的贺礼</p>
             <p>俺花了一天时间搞定了这个项目</p>
             <p>俺的Github页面: <a href="https://github.com/LuoSheng12345" target="_blank">github.com/LuoSheng12345</a></p>
         </div>
         <h1>这网站咋用</h1>
         <div>
+            <h2 class="text-xl font-semibold">手机上用不太了！上电脑上用去！</h2>
             <p>
                 上面可以选展示哪些个家族
             </p>

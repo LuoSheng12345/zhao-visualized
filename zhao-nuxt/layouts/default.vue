@@ -3,7 +3,7 @@
     <Nuxt />
     <div class="fixed z-25 bottom-0 left-0 flex flex-col">
       <nuxt-link to="/" class="navi">看图</nuxt-link>
-      <nuxt-link to="/about" class="navi">关于</nuxt-link>
+      <nuxt-link to="/about" class="navi">帮助</nuxt-link>
 
     </div>
   </div>
