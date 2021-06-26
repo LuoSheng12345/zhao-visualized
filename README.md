@@ -4,7 +4,7 @@
 
 ## 项目介绍
 
-需要在static文件夹中放置zhao.json。这个文件可以利用[github.com/LuoSheng12345/zhao-visualized-yaml-json-converter](https://github.com/LuoSheng12345/zhao-visualized-yaml-json-converter)生成，或者直接从这个repo获取。
+需要在static文件夹中放置zhao.json。可以从[我Fork的太子党关系网络](https://github.com/LuoSheng12345/zhao)下的json文件夹中生成或获取。
 
 这个项目用了Nuxt.JS，如果想开发这个项目的话这些命令应该有用。
 
