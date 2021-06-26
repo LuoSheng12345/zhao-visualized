@@ -2,11 +2,10 @@
     <div class="flex flex-col max-w-2xl m-auto">
         <h1>关于</h1>
         <div>
-            <p>这个项目是基于编程随想的太子党关系网络的视觉化。去这儿看编成随想的Repo: <a href="https://github.com/programthink/zhao" target="_blank">github.com/programthink/zhao</a></p>
-            <p>这里衷心希望编程随想啥事儿也没有</p>
-            <p>这个项目可以说是建党百年的贺礼</p>
-            <p>俺花了一天时间搞定了这个项目</p>
-            <p>俺的Github页面: <a href="https://github.com/LuoSheng12345" target="_blank">github.com/LuoSheng12345</a></p>
+            <p>这个项目是基于俺Fork的编程随想的太子党关系网络的视觉化。去这儿看俺Fork的Repo: <a href="https://github.com/LuoSheng12345/zhao" target="_blank">github.com/LuoSheng12345/zhao</a></p>
+            <p>这个项目可以说是俺给党建党百年的贺礼</p>
+            <p>如果你发现这个网站上的数据有问题，比如错误、缺失、过时，请参考<a href="https://github.com/LuoSheng12345/zhao/blob/master/README.md" target="_blank">这篇文章</a>对太子党关系网络这个项目做出贡献</p>
+            <p>如果你想进一步提升这个网站本身的体验，可以<a href="https://github.com/LuoSheng12345/zhao-visualized">从这里</a>查看本网站的项目</p>
         </div>
         <h1>这网站咋用</h1>
         <div>
