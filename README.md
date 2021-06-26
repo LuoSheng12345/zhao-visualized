@@ -6,7 +6,7 @@
 
 需要在static文件夹中放置zhao.json。这个文件可以利用[github.com/LuoSheng12345/zhao-visualized-yaml-json-converter](https://github.com/LuoSheng12345/zhao-visualized-yaml-json-converter)生成，或者直接从这个repo获取。
 
-这个项目用了Nuxt.JS，以下这些命令可以帮助开发。
+这个项目用了Nuxt.JS，如果想开发这个项目的话这些命令应该有用。
 
 ```bash
 # install dependencies
