@@ -20,6 +20,12 @@
                 点的大小代表一个人有多少连线。连线越多点越大。
             </p>
         </div>
+        <h1>信息有错误，缺失，过时？</h1>
+        <div>
+            <h2>来填写下面这个表单，为此项目做贡献</h2>
+            <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSe5ufFmkNkY1RJf4oETmElwxHnVOqs_dor9Y44MJpZ7vD0uaw/viewform?embedded=true" class="w-full" height="630" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+            <p>看不见这个表单的话也可以<a href="https://forms.gle/8v69z19Vroxy8UXP9">来这里</a>填写这份表单</p>
+        </div>
     </div>
 </template>
 
