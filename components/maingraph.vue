@@ -20,14 +20,19 @@ export default {
       let graph=zhaoP.data
       this.zhao=graph
 
-      graph.data.forEach(node => {
+      graph.nodes.forEach(node => {
         node.symbolSize=node.connections*3+5
-        
+        if(node.category!=0){
+          let cat=graph.categories.filter(x=>x.cid==node.category)[0]
+          if(cat){
+            node.value=cat.name+' 家族'
+          }
+        }
       });
 
-      // graph.links.forEach(link=>{
-      //   link.value=link.relationship
-      // })
+      graph.links.forEach(link=>{
+        link.value=link.relationship
+      })
 
 
       let option = {
@@ -38,7 +43,7 @@ export default {
           },
           tooltip: {},
           legend: [{
-              selectedMode: false,
+              // selectedMode: 'single',
               data: graph.categories.map(function (a) {
                   return a.name;
               })
@@ -48,7 +53,7 @@ export default {
                   // name: 'Les Miserables',
                   type: 'graph',
                   layout: 'force',
-                  data: graph.data,
+                  data: graph.nodes,
                   links: graph.links,
                   categories: graph.categories,
                   roam: true,
