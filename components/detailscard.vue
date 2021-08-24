@@ -1,4 +1,5 @@
 <template>
+<!-- Isn't used -->
     <div>
         <div v-if="isNode">
             <!-- node -->
